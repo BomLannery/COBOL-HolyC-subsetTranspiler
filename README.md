@@ -1,5 +1,8 @@
 # COBOL-HolyC-subsetTranspiler
 
+COBOL → HolyC Transpiler
+
+The concept: Parse COBOL source code and emit equivalent HolyC code that runs on TempleOS (or a compatible environment).
 A subset transpiler — covering core COBOL arithmetic, control flow, working-storage variables, and DISPLAY
 
 COBOL→ HolyC
